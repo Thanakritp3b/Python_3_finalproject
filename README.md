@@ -1,4 +1,4 @@
-This is Final Project in my python-3 class 
+This is Final Project in my Python-3 class 
 # Maze solver Project
 This Project for practicing or experiment the maze solving using dfs or bfs 
 ## Core Function 
