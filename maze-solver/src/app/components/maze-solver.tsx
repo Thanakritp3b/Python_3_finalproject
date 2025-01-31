@@ -88,7 +88,7 @@ export default function Mazesolver(){
                             id ="width"
                             type="number"
                             min="5"
-                            max="30"
+                            max="50"
                             value={width}
                             onChange={(e) => setWidth(Number(e.target.value))}
                             className="w-24"
@@ -100,9 +100,9 @@ export default function Mazesolver(){
                             id ="height"
                             type="number"
                             min="5"
-                            max="30"
+                            max="50"
                             value={height}
-                            onChange={(e) => setWidth(Number(e.target.value))}
+                            onChange={(e) => setHeight(Number(e.target.value))}
                             className="w-24"
                         />
                     </div>
